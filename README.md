@@ -1,4 +1,5 @@
-# AUTO LOGIN![icon_256x256@1x](https://github.com/user-attachments/assets/49a17341-5eea-4e0c-97e6-ee73842329cd)
+# AUTO LOGIN
+![icon_256x256@1x](https://github.com/user-attachments/assets/49a17341-5eea-4e0c-97e6-ee73842329cd)
 
 通过预设账号密码快速登录目标网站,自动识别图形验证码，自动跳转登录并填写账号密码，提高效率。定制开发，通过在github中向开发提出申请，即可活动定制网站自动登录功能
 
