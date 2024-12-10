@@ -14,7 +14,7 @@
 
 > 支持定制功能：如果您有特定需求，可以通过 GitHub 向开发者提出定制开发申请
 
-> <b style="color:red">安全性保障：插件采用本地存储机制，保障用户数据安全，绝不上传任何敏感信息</b>
+> <b style="color:red">安全性保障：插件采用chrome.storage机制，保障用户数据安全，绝不上传任何敏感信息。</b>
 
 # 目前支持的
 
@@ -23,6 +23,10 @@
 > <b>阿里云RAM账户登录</b>
 
 > <b>宝塔登录</b>
+
+> 中国计算机技术职业资格网
+
+> 淘宝网
 
 # 如何申请支持
 
@@ -45,6 +49,5 @@
 # 演示
 
 ![WechatIMG5](https://github.com/user-attachments/assets/28593d3d-aa82-4c71-a395-ba436e36f107)
-
 
 https://github.com/user-attachments/assets/68b5524d-1ca6-41bc-bdea-35c65ab434cd
