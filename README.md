@@ -1,4 +1,4 @@
-# AUTO LOGIN
+# Auto Login ｜ Auto Login Sync
 
 ![icon_256x256@1x](https://github.com/user-attachments/assets/49a17341-5eea-4e0c-97e6-ee73842329cd)
 
@@ -10,7 +10,7 @@
 
 > 一键登录：通过预设账号和密码快速登录到目标网站
 
-> 图形验证码识别：自动识别并填写图形验证码
+> 多端数据同步（autologinsynch支持）：基于chrome.storage.sync机制，多端数据实时同步
 
 > 支持定制功能：如果您有特定需求，可以通过 GitHub 向开发者提出定制开发申请
 
